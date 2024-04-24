@@ -1,0 +1,13 @@
+.amount-button {
+  background: #585076;
+  height: 40px;
+  width: 200px;
+  border: 1px solid #d4d2db;
+  border-radius: 8px;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  color: #d4d2db;
+  font-size: 26px;
+  font-weight: bold;
+}

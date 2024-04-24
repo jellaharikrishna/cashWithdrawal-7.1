@@ -1,0 +1,73 @@
+.bg-container {
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.withdrawal-container {
+  background-color: #150b3e;
+  width: 500px;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.name-card {
+  display: flex;
+}
+.name-icon {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  height: 60px;
+  width: 60px;
+  padding: 20px;
+  border-radius: 30px;
+  text-align: center;
+  margin-right: 20px;
+  align-self: center;
+}
+.name {
+  align-self: center;
+  font-family: Roboto;
+  font-size: 22px;
+  color: #d4d2db;
+}
+
+.balance-card {
+  display: flex;
+  justify-content: space-between;
+}
+.balance {
+  color: #585076;
+  font-family: Roboto;
+  font-size: 22px;
+}
+.amount {
+  color: #d4d2db;
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: bold;
+}
+.rupees {
+  color: #585076;
+  font-family: Roboto;
+}
+
+.withdraw {
+  color: #d4d2db;
+  font-family: Roboto;
+  font-size: 22px;
+}
+.choose-sum {
+  color: #585076;
+  font-family: Roboto;
+}
+
+.Denomination-card {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
